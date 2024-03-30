@@ -11,12 +11,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://c.tenor.com/3ADo3TEh2AMAAAAd/tenor.gif"  />
 
 ###
